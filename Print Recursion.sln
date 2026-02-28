@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Print Recursion", "Print Recursion.vcxproj", "{B88463D1-18CD-4420-90EE-A14BDAE865FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88463D1-18CD-4420-90EE-A14BDAE865FE}.Debug|x64.ActiveCfg = Debug|x64
+		{B88463D1-18CD-4420-90EE-A14BDAE865FE}.Debug|x64.Build.0 = Debug|x64
+		{B88463D1-18CD-4420-90EE-A14BDAE865FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{B88463D1-18CD-4420-90EE-A14BDAE865FE}.Debug|x86.Build.0 = Debug|Win32
+		{B88463D1-18CD-4420-90EE-A14BDAE865FE}.Release|x64.ActiveCfg = Release|x64
+		{B88463D1-18CD-4420-90EE-A14BDAE865FE}.Release|x64.Build.0 = Release|x64
+		{B88463D1-18CD-4420-90EE-A14BDAE865FE}.Release|x86.ActiveCfg = Release|Win32
+		{B88463D1-18CD-4420-90EE-A14BDAE865FE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C1852AD-0EA9-4C1A-9E78-1D595CC78758}
+	EndGlobalSection
+EndGlobal
